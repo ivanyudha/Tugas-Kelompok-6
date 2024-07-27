@@ -4,9 +4,8 @@
 **Anggota**
 ---
 
-| Nama Nim |
+| Nama | Nim |
 | ----------- | ----------- |
-| Header | Title |
 | Paragraph | Text |
 
 1. Moniska Azahra - 2702467652
