@@ -1,4 +1,4 @@
-# Tugas Kelompok 6
+# Tugas 4 Kelompok 6
 ## Introduction to Data and Information Management
 
 **Anggota Kelompok**
