@@ -4,6 +4,11 @@
 **Anggota**
 ---
 
+	| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 1. Moniska Azahra - 2702467652
 2. Muhammad Naufal Gunawan - 2702464884
 3. Ivan Yudha Putranto H. - 2702467500
