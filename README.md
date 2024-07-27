@@ -1,7 +1,7 @@
 # Tugas Kelompok 6
 ## Introduction to Data and Information Management
 
-**Anggota**
+**Anggota Kelompok**
 ---
 
 | Nama | Nim |
