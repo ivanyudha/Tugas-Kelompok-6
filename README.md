@@ -4,7 +4,7 @@
 **Anggota**
 ---
 
-| Syntax | Description |
+| Nama | Nim |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
